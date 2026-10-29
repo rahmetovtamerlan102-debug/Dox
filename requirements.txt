@@ -1,0 +1,3 @@
+pyrogram==2.2.5
+TgCrypto
+requests
