@@ -1,4 +1,0 @@
-pyrofork
-TgCrypto
-requests
-phonenumbers
