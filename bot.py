@@ -1,4 +1,4 @@
-Import os
+import os
 import requests
 import asyncio
 import threading
