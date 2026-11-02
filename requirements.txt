@@ -1,6 +1,0 @@
-pyrofork
-tgcrypto
-requests
-phonenumbers
-psycopg2-binary
-exifread
