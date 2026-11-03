@@ -1,7 +1,0 @@
-pyrofork
-tgcrypto
-requests
-phonenumbers
-psycopg2-binary
-python-whois
-dnspython
